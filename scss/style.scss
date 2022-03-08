@@ -14,15 +14,15 @@ $light_grayish_blue: hsl(210, 46%, 95%);
 }
 
 body {
-  // background: $light_grayish_blue;
+  background: $light_grayish_blue;
   font-family: "Barlow Semi Condensed", sans-serif;
   font-size: 13px;
   line-height: 1.7;
 }
 
 .testimonials {
-  width: 80%;
-  margin: auto;
+  max-width: 1440px;
+  margin: 35px auto;
   padding: 20px;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -31,7 +31,7 @@ body {
   .card {
     background-color: $white;
     border-radius: 10px;
-    padding: 30px;
+    padding: 25px 40px;
     box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
     // margin-bottom: 10px;
 
@@ -67,8 +67,7 @@ body {
     .card-quote {
       font-size: 15px;
       font-weight: 500;
-      line-height: 1.4;
-      margin-bottom: 20px;
+      line-height: 1.8;
       opacity: 70%;
     }
   }
