@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click here](https://your-solution-url.com)
+- Solution URL: [Click here](https://www.frontendmentor.io/solutions/testimonials-responsive-page-using-css-grid-P_-2k03Nh)
 - Live Site URL: [Click here](https://subhajitroycode.github.io/testimonials-grid-section/)
 
 ## My process
